@@ -81,7 +81,7 @@ hr {
 }
 
 .jumbotron {
-	background: no-repeat center right fixed url(D:/PROJECTS/WebProjects/portfolio/images/background.jpg);
+	background: no-repeat center right fixed url(images/background.jpg);
 	-webkit-background-size: 100%;
 	-moz-background-size: 100%;
 	-o-background-size: 100%;
@@ -92,8 +92,8 @@ hr {
 	-o-background-size: cover;
 	background-size: cover;
 
-	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='D:/PROJECTS/WebProjects/portfolio/images/background.jpg', sizingMethod='scale')";
-	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='D:/PROJECTS/WebProjects/portfolio/images/background.jpg', sizingMethod='scale');
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/background.jpg', sizingMethod='scale')";
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/background.jpg', sizingMethod='scale');
 
 	margin-bottom: 0px;
 	padding: 0px;
